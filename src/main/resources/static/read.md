@@ -1,0 +1,1 @@
+####（Spring Boot 默认的）存放静态文件，比如 css、js、image, （访问方式 http://localhost:8080/js/main.js）
