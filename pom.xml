@@ -28,7 +28,7 @@
         <commons.configuration.version>1.10</commons.configuration.version>
         <!--Hutool 开源工具包-->
         <hutool-all>5.1.2</hutool-all>
-        <fastjson>1.2.62</fastjson>
+        <fastjson>1.2.83</fastjson>
     </properties>
 
     <dependencies>
